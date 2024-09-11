@@ -2,7 +2,7 @@
 #include <WebServer.h>
 
 const char* ssid = "sima_ftadi";  // Replace with your Wi-Fi SSID
-const char* password = "@Saiman12345";  // Replace with your Wi-Fi Password
+const char* password = "XXX";  // 3X haahahaha
 
 WebServer server(80);
 
